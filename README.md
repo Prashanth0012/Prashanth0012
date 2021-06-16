@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prashanth0012
 - 👀 I’m interested in games study
-- 🌱 I’m currently learning B-tech
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 6303699052
+- 📫 How to reach me ....
 
 <!---
 Prashanth0012/Prashanth0012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
